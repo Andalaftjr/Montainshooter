@@ -1,10 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from entity import entity
+from Entity import entity
 
 
-class Enemy(entity):
+class Background(entity):
     def __init__(self):
         pass
 
